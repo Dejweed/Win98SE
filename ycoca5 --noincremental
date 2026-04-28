@@ -1,0 +1,1098 @@
+[33mdc90b29b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Add symbolic suffix symlinks for bluetooth tray icons
+[33m8101f871[m Add brightness-high symlinks for KDE Plasma brightness applet
+[33m320b1cdc[m xfce links, some rtl links
+[33m2c84416e[m some flatpak links
+[33mc00ed69f[m plasma 6 bluetooth
+[33mf7b226d0[m improved user-trash-full 32 shadow
+[33md07325f3[m inherit breeze typo fix
+[33mfadd6a1e[m removed all .xpm files
+[33ma423a584[m more links
+[33m4466631a[m symbolic links, dialog-ok 32
+[33m4b28112d[m removed some non-windows icons 48 64
+[33m41a5ccb2[m link
+[33mb0ffdd8d[m text-markdown 256
+[33mbd8a2cae[m fixes for dark themes
+[33mfb0ac35c[m list-add.symbolic
+[33m1596368b[m Epiphany
+[33ma962f471[m font viewers and managers
+[33m873aebb2[m preferences-system-power update
+[33mf82b3a85[m reducing size of shortcut emblem
+[33m27ab4879[m Update index.theme
+[33me25354d9[m removing symbolic.symbolic icons of zoom
+[33mf9bd24bc[m zoom action icons
+[33md26d69dc[m small fixes of zoom for dark themes
+[33meff9af87[m application-x-dosexec
+[33m9d2a5e83[m readme files update
+[33mc20d51a2[m Merge branch 'main' of github.com:nestoris/Win98SE
+[33mc8c5147d[m qml symlinks
+[33mb8c43894[m Merge pull request #45 from Dejweed/main
+[33m60b0fbaa[m symlinks
+[33mab120f85[m qml icon, some script icons in 128 px
+[33m7c755c8f[m symlinks
+[33m032ee7b0[m web-browser 96
+[33m3129e5da[m web-browser transparency fix
+[33m432547a9[m Merge pull request #44 from Dejweed/main
+[33md28e8bd6[m libreoffice-writer symlink
+[33m428e5267[m edit-copy symlinks
+[33m6c5e4210[m removed extra green pixels
+[33m86f4db0e[m removed .old files,notifications, xapp-prefs-preview-symbolic
+[33m3119f7db[m time-admin 16 32 48, symbolic links
+[33md1d39120[m system-software-install-symbolic, utilities-terminal-symbolic
+[33m4895caf9[m folder-wine
+[33ma861fc32[m application-x-generic
+[33m53e462a7[m Merge pull request #41 from Dejweed/main
+[33mf1a2a294[m view-filter 22, gtk-edit 24
+[33m5ade4269[m network-wired-activated-limited, network-unavailable (by malekmasoud)
+[33m400acdbb[m Update README.md
+[33mff09a8aa[m Update README.md
+[33md1486a43[m gnome-dev-printer-new-symbolic
+[33m3f1e1cf3[m gnome-dev-printer-new
+[33m36aeb12f[m video-display 72 96
+[33m820a6843[m office-writer 22-32 trans
+[33m5cecd1b7[m office-writer 128
+[33mb43755ed[m Merge pull request #40 from Dejweed/main
+[33m079fd40a[m Update icons.html
+[33m49a6999d[m application-vnd.iccprofile 24
+[33m12fa73a0[m mintwelcome 16 32
+[33me61a46b0[m linked existing icons
+[33m01d6f695[m libreoffice apps shadow
+[33m4ad731f2[m Merge pull request #39 from Dejweed/main
+[33m5a67ede9[m texts update
+[33m872903cd[m application-x-theme links size fix
+[33m22733efb[m preferences-desktop-theme
+[33m07a831e0[m themes 96
+[33m3e898d22[m application-vnd.iccprofile
+[33m71edb5fe[m application-vnd.iccprofile
+[33m6a73404f[m vmware-disabled, git-cola link
+[33mfce4b2a0[m mx-snapshot app
+[33mbaa8d6cf[m application-vnd.iccprofile, folder-games
+[33mce090feb[m input-gaming minor changes
+[33mb30459fc[m Merge pull request #38 from Dejweed/main
+[33m8581b081[m edit-move 16 win98, view-filter 16
+[33m0c30f694[m edit-image, emblem-important 10, kfloppy
+[33mb8324001[m remote-desktop, sound recorder
+[33m070beb5a[m solitaire, gnome-dev-memory, links
+[33m0a2d83ab[m notification acitve/inactive, org.gnome.Loupe
+[33me600c3fa[m pan-start, pan-end
+[33me3d54727[m linked existing icons
+[33m94ceebc3[m system-shutdown
+[33m6d21d0bd[m update readmes
+[33md6dba8f3[m win2k style MyDocuments addon (user-home)
+[33mca69fb72[m update icons.md & icons.html in mimes
+[33m79dbe254[m Merge pull request #37 from Dejweed/main
+[33mdb948686[m fixed audio-flac 48, vnd mime links
+[33meae732c1[m image-missing
+[33m19eb4a92[m removed network-idle duplicate
+[33m06300d74[m network-idle-symbolic 96
+[33m54d3466f[m addig font-ttf to MDs
+[33m4ef0e040[m update todo
+[33m35d5db0f[m todo text lists
+[33m4c0bb7af[m font-ttf
+[33mb7f155c5[m 24/task-due
+[33m92a09cd3[m Update todo.md
+[33m2f618367[m task-due
+[33md2a56911[m Merge pull request #35 from Dejweed/main
+[33mfe4282e5[m linked existing icons
+[33mdbd3be48[m appimage, flatpak, snap
+[33m8d55074d[m emblem-synchronizing-symbolic; starred
+[33m4ac615d1[m application-x-ms-shortcut;deleting of unused XPMs
+[33m9dca2ee6[m small symlink corrections in mimes
+[33m8f483ce9[m text-x-tcl
+[33m0303d0c2[m tcl script icon
+[33mb86b9ca4[m mail-forward 16-32
+[33ma00dea81[m mail-reply-sender 98
+[33m65179731[m import, export, sync
+[33mb5800609[m READMEs and TODOs
+[33mdb8fc969[m Merge pull request #34 from Dejweed/main
+[33m96dbdc0a[m Update README.md
+[33m375704e3[m Update README.md
+[33m68265492[m icons from outlook express
+[33ma91b68c6[m fixed broken links
+[33mc7a8d607[m window-pin 22,starred 32
+[33mba8d73c8[m Update README.md
+[33m395bc8b6[m pdf readers symlinks
+[33m7f221643[m acroread (and other pdf-apps) in a hurry made icon
+[33mf67dcdaa[m window-close 16x16 symlinks
+[33m5f2bafea[m Merge pull request #31 from Dejweed/main
+[33m4ca1b578[m update Reference Readme
+[33m71d01ec4[m configure 22
+[33m31472e4f[m starred 22, symbolic links
+[33mdc7dee90[m bigger media-eject 22
+[33mb3c01082[m pan & window symbolic icons
+[33m32619ddf[m 72 multimedia-audio-player,disk-usage-analyzer
+[33m66954e77[m Merge branch 'main' of github.com:nestoris/Win98SE
+[33m0e7f38ad[m translating the reference to English
+[33me6116e6f[m Merge pull request #30 from Dejweed/main
+[33mb375dd4e[m go-up,go-down,go-previous
+[33m000f2261[m media-symbolic links
+[33m12ea353b[m updated index.theme
+[33mb10af1d8[m Merge branch 'main' of github.com:nestoris/Win98SE
+[33mb549663d[m playback icons
+[33m02d2a69b[m Merge pull request #29 from Dejweed/main
+[33m6c770ea9[m some app links
+[33me03ca898[m transparent shadows
+[33m04f4eb5b[m document-print-preview
+[33mafb74133[m Status readmes
+[33m2f1020a6[m Merge pull request #28 from Dejweed/main
+[33m8a9ac827[m transparent shadows, minor pixel fixes
+[33mc156e263[m volume symlinks from 'todo'
+[33me5f3b672[m Update todo-status.md
+[33m04d5a07e[m lines in sound volume icons, mute links
+[33m2d8a4017[m diff. lines in volume levels
+[33mbedafadc[m utilities-terminal
+[33m3530b710[m a bit squared terminal icon
+[33m60da1cf4[m 'Archives' icon for CatFish search app
+[33m5ebe713e[m updatind md and html galeries
+[33ma934d66b[m Merge pull request #27 from Dejweed/main
+[33me4dfa93b[m guake
+[33m768fb06b[m more symbolic actions
+[33m8c59d39b[m symbolic actions
+[33md0e19f9d[m update
+[33m3c950053[m Update README.md
+[33mfc570fa7[m Update drive-removable-media.png
+[33m340ab4bd[m XFCE removable devices 95=>98
+[33m9a248a5c[m configure-shortcuts, window-restore-symbolic.symbolic...
+[33me7dfa429[m fb2-compressed as regular fb2
+[33m49b362de[m symlinkings
+[33m0e18d714[m xfce4-fsguard-plugin,some symlinkings,trans shadow
+[33m61c0f445[m preferences-desktop-effects
+[33m64fc397e[m accessories-character-map 22 24
+[33mb34990c3[m non-secure ones (wi-fi)
+[33m31252c95[m network-wireless-secure with lock
+[33mc9340fd6[m camera-web
+[33mb6a64a96[m mouse 64
+[33me8d52012[m messageox links
+[33m25d29af4[m todo and somicons markdowns
+[33mc77d5ce1[m drive-removable-media 22,24
+[33ma02bc922[m some minor corrections and removings
+[33m457d6ecb[m accessories-text-editor 96
+[33m99c8cc02[m accessories-text-editor 72
+[33m823d6437[m notepad 64
+[33m725ba676[m folder-new correction
+[33m36a8b52d[m sorting: ascending/descending
+[33m02a9ba9c[m 32/edit-find-replace
+[33m7ed689d9[m folder-new 98
+[33m845c2d46[m link process-stop has target: ../../status/{}/dialog-error
+[33maa71076d[m dialog-error and process-stop with larger circles
+[33mae2b86d0[m more matching with dark themes
+[33m29344f9e[m plasma-search
+[33m05d98c3b[m view-more22; some more symlinks
+[33mb52aed9a[m theme shadow
+[33m1e727031[m one more shadow
+[33m47aa1345[m some translucensy to the shadow
+[33m868cbc26[m the hole in the folder is patched
+[33mbee4faec[m opus+ogg icon
+[33m65d9a471[m process-stop & dialog-error 64
+[33mfa52f33b[m removing icon cache from repo
+[33m85fc740e[m Delete icon-theme.cache
+[33m0fdcac19[m audio-volume icons 96x96
+[33maae31109[m media-flash-cf as usb-drive
+[33m661cc480[m camera 64
+[33m3eb8971e[m gvim and dialog icons
+[33mab349fcf[m cs-notifications and notifyconf as bell
+[33m15149d3e[m preferences-plugin
+[33m8d144157[m Merge pull request #25 from Dejweed/main
+[33m60c94a9c[m extension icon
+[33m041985c7[m scanner 64
+[33m4a4839f5[m vim 16-128 and status/scalable volume icons
+[33m503e864e[m symlinks
+[33m7cd02e11[m orange document-save-as
+[33me8614ea1[m pamac-tray-update as software-update-available
+[33m7a6b8f51[m notifyconfnotifyconf
+[33m30368573[m dialog-warning org.xfce.notification liter shadow
+[33m4e5bd94b[m org.xfce.notification
+[33m2f659c09[m update managers symlinks
+[33md23637f1[m dialog clouds 72 96
+[33m053fb81b[m update manager status icons
+[33m974456e1[m dot and shadow
+[33m4462c63c[m actions/128 & 96 & 72, doc and xls trans-shadow
+[33m66dea982[m default applications -- gray inactive window title
+[33m157ee7d5[m pin-unpin 16
+[33m91744d23[m comments in scripts
+[33m9dbc160d[m remove 2 old icons
+[33mb545c2fd[m Delete stock_new-address-book.png~d0f99d3cfe5bfeef77f5898e55e3077e8869bfa4
+[33mfd493a30[m markup/markdown readmes update
+[33mf379aac9[m emblems/8
+[33mb0f98c7a[m Merge branch 'main' of https://github.com/Dejweed/Win98SE
+[33m2b7ca864[m removing ugly scalabled places
+[33m60005e87[m removing most from scalable devices
+[33mafd34737[m removed ugly scalables from mimes
+[33md0f99d3c[m some link fixes
+[33m3bce1ec9[m removed svgs for nautilus
+[33mbd9c914b[m typo fix
+[33mb0c381eb[m emblem-locked
+[33mf74f3a47[m some link corrections
+[33m7e2d79d4[m vmware icons
+[33me98f74f6[m driver-manager 64
+[33me29c9f1b[m inkscape
+[33mb9b83785[m notification-symbolic
+[33m6b3b7428[m pamac
+[33m599a0ca9[m x-office-address-book address-book-new
+[33mca724887[m cropped icons to 22
+[33m5ea89e6e[m added missing links
+[33m0fa9bea4[m gnome-fs-regular
+[33m03b20299[m disk-usage-analyzer 96 128
+[33m97da4d4f[m chromium,kmenuedit,preferences-system-session-services,gmusicbrowser
+[33mfb43e28f[m x-office-drawing 128
+[33m59fe79c2[m photocamera icon
+[33mebb8885c[m sleep, undo-redo-ltr
+[33m580cbbbb[m edit-redo
+[33m26905e83[m undo-redo, cut 48x48, timeshift, rooler
+[33m41fb3884[m timeshift
+[33m9e0a03ce[m display icons
+[33m5ba1e683[m texts
+[33ma833dba6[m parole, parole, parole
+[33m2baf180e[m accessories-camera 16 24
+[33mb442cf30[m abiword
+[33m174ae3e7[m galeon, edit-urpm-sources
+[33m553b6f0d[m Delete drive-removable-media.png
+[33m64abb8ec[m baobab
+[33ma8a09d07[m dwg, dxf, wmf as vector docs
+[33ma45c3c5a[m xfce settings icon as control panel
+[33m65083857[m update full lists of icons and table generator
+[33m39a5fc13[m update markup and markdown files
+[33m383d350f[m Merge branch 'main' of github.com:Dejweed/Win98SE
+[33mff6c66f4[m Create icon-theme.cache
+[33ma4536474[m Delete icon-theme.cache
+[33m3eb41c8b[m window-pin,window-unpin
+[33ma6a49c96[m some actions, kde symlinks
+[33m6ca3257a[m Update README.md
+[33m5e13e3e0[m panel launchers for cinnamon, mate, xfce
+[33mcb37fe9a[m some power managers 64
+[33m70131c62[m thermal-monitor icons
+[33md33306e8[m emblem-scripts
+[33mce6eace6[m drawing picopixel kolourpaint as pbrush
+[33m11f72e04[m org.gnome.Characters
+[33m18823c16[m kde preferences symlinks
+[33mcea2cad6[m preferences-system-splash,org.gnome.Settings-symbolic
+[33m117e6113[m Cinnamon categories and settings, network settings
+[33m9b08c8bb[m some cinnamon categories
+[33mef46aa12[m cs-region Globe icon
+[33m6a2a1140[m cinnamon locale icon
+[33m1fd5c12a[m removed exec permission for all files in theme except scrips
+[33m24675034[m Merge pull request #22 from Dejweed/main
+[33me5b92734[m fix
+[33m0f4c0f63[m Delete .svg
+[33m53a697f6[m zorin symlinks
+[33mf0383cf2[m microphone-sensitivity-symbolic,ac-adapter-symbolic
+[33mfe63d82e[m Merge branch 'nestoris:main' into main
+[33mfe1c8ae4[m more gnome symlinks
+[33m76dc48eb[m remove 64 icon from 72 and 96
+[33md8751f49[m gnome symlinks
+[33m793f0a6c[m remove errors
+[33mab19a6ee[m edit-paste 64x64
+[33me2e17ea7[m sound.png as yelow speaker
+[33mf9d3398b[m application-x-lz4
+[33m5085e09d[m word 64
+[33m63800dd0[m fiew symlink corrections
+[33me66baf51[m update & locale
+[33m81129855[m far icon less size
+[33m7ba9b661[m cs-desklets cs-windows cinnamon-virtual-keyboard application-x-object
+[33m7d2f16e2[m blueman symbolic icons
+[33m756d9220[m blueman-disabled-symbolic
+[33m59d83e07[m diodon
+[33me339c12f[m mintubiquity
+[33m4cb2de0e[m update manager & locale symlinks
+[33m222baa2d[m panel icons; indicators; status icons
+[33m3ac05cc1[m test of README galleries for all contexts
+[33mdf0934d3[m test of README galleries for all contexts
+[33me1375f1e[m test of README galleries for all contexts
+[33m4b9b3c5c[m test of README galleries for all contexts
+[33m98fe8db6[m audio-volume-low-zero-panel, audio-volume-muted-blocking-panel
+[33mc996d923[m test of README galleries for all contexts
+[33m89ac1fbf[m animations/README.md
+[33m34b4bc9f[m test of README galleries for all contexts
+[33mfbcc663c[m test of README galleries for all contexts
+[33m538da98b[m org.xfce.genmon
+[33m6f3f85b4[m test of README galleries for all contexts
+[33mf89ce222[m test of README galleries for all contexts
+[33m9e1a19b8[m test of README galleries for all contexts
+[33m8d4e2be0[m test of README galleries for all contexts
+[33mbe17be16[m Update README.md
+[33mc626ab1e[m test of README galleries for all contexts
+[33mdb801fea[m test of README galleries for all contexts
+[33mac6ed0b4[m test of README galleries for all contexts
+[33mcd5aa903[m test of README galleries for all contexts
+[33m454c4d1e[m test of README galleries for all contexts
+[33me2e207fc[m test of README galleries for all contexts
+[33m7bf2d238[m SE98/apps/README.md
+[33ma7d647b7[m test of README galleries for all contexts
+[33ma80d189a[m test of README galleries for all contexts
+[33m8d201a6b[m Update README.md
+[33macda7ac3[m md galleries
+[33mdd2c3656[m akonadi; arrows; recent; fm-icons; some panel icons; xfce-wm butons; alarm; mic-panel; audio volume
+[33me6c4dfaf[m workspace-switcher update
+[33m6054a766[m appointment-new
+[33m508d52f5[m 256/mc
+[33m38063ed8[m diagonal stripes in HTML galleries
+[33mc1721b95[m mark spam RED, minor removings
+[33m4b245bf0[m some gtk & cinnamon icons and symlinks
+[33meb2e5a2b[m install shield icon for system installation scripts
+[33mcbe298eb[m Update folder.png
+[33m14650c36[m L/T corner of folder 256-1024
+[33mf8921729[m 1024/folder
+[33m70b8afc8[m Update todo.md
+[33md5d24d75[m folder/512
+[33md3ca4c56[m text-x-nfo cab to 96 mpv-symbolic
+[33m3b35dcd0[m workspace-switcher solid icon
+[33m52356684[m Update todo.md
+[33m6d76f2c4[m accessories-media-converter converseen ffmulticonverter mirovideoconverter convertall
+[33m014ae6d3[m mpv
+[33m497a9d3b[m workspace-switcher as 4xWIN98 desktops!!!!))
+[33m4eee5540[m synlinks...
+[33m382c36f8[m symlinks for KDE, GNOME, XFCE4
+[33m5f0ff968[m banshee
+[33m3d8bf24f[m multimedia-video-player_win2k, session-properties, xfce4-menueditor calc and other links
+[33m48436d26[m ibus-setup as preferences-desktop-keyboard-shortcuts
+[33m626430c9[m preferences-desktop-keyboard-shortcuts
+[33m57041f2b[m update-manager
+[33mac6a9103[m preferences-system-session
+[33m71fec776[m gnome-panel-launcher
+[33m759c8cda[m document-properties document-save-as
+[33mbd18ef3d[m gparted
+[33mca456077[m viewnior as accessories-image-viewer
+[33m94e58173[m gimp-photoshop5 softer icons
+[33mbe1aa1ee[m mate-power-manager 16-64
+[33md23526fb[m preferences-desktop as control panel
+[33mcf016b72[m icons.html update
+[33m156d80dc[m stock_no and window-close fix
+[33m4acd9938[m cancel smaller
+[33m8c10eeb5[m folder-yandex-disk
+[33m2267235a[m zeroinstall & yast-sw_single as system-software-installer
+[33m4a4f815b[m remake symlinks to software manager
+[33m2c07fb18[m ubiquity as Windows98/Setup.exe
+[33me9e5f101[m desktop settings as user-desktop
+[33m1acf8b1e[m package managers are symlinked to software-manager
+[33md04c4000[m exaile-pause as media-playback-pause
+[33m84a10459[m Update todo-status.md
+[33m2fd153bd[m todo-status.md
+[33m6f6cbc57[m media-playback-pause
+[33m1f1204c1[m Update todo-status.md
+[33m4255719e[m software-manager and aptdaemon as Pandora Box
+[33m78be409e[m apps/icons.html
+[33mfde58932[m Merge branch 'main' of github.com:nestoris/Win98SE
+[33m4d96463c[m keyring-manager links; input_devices_settings; input-gaming; appointment; some appdaemon statuses
+[33m6df32b5d[m Merge pull request #18 from Dejweed/main
+[33md7cc7110[m brightnesssettings, featherpad, obconf-qt, plasmadiscover, qps
+[33m0e0dcc6c[m more cinammon links
+[33m27b4c85f[m Merge pull request #17 from Dejweed/main
+[33m6e7b7427[m org.gnome.Yelp
+[33mc53513c9[m keyboard fix
+[33m15914b61[m kclock, applications-all, cinammon links
+[33m0abcf53f[m upd galleries
+[33m0aafbbcb[m 192/user-desktop
+[33mf2ed9b9a[m README.md upd
+[33m4b0ba190[m 192/user-desktop
+[33m818f7bc6[m update HTMLs
+[33m396d4e69[m Merge pull request #16 from Dejweed/main
+[33mb7a3a27a[m gconf-cleaner accessories-system-cleaner zsnes as nes
+[33m36c2cddc[m image-icon-project, mail-notification
+[33mf2f1f2c7[m Merge branch 'nestoris:main' into main
+[33m85e45e50[m base icon image-viewer => accessories-image-viewer
+[33m5d0fda2f[m accessories-notes
+[33md4d24075[m blueman-device, rename gnome.ArchiveManager
+[33m85b459e9[m onboard icons
+[33m6cf257ae[m Merge pull request #15 from Dejweed/main
+[33m66184c9c[m onboard, qlipper, screengrab
+[33m1ad45f26[m proxy app as network-server
+[33m72d224d2[m system-users
+[33m7a8afd95[m package_settings as preferences-desktop-default-applications
+[33ma3709500[m system-run for autorun
+[33m9668b069[m application-default-icon
+[33m692fe672[m mic64
+[33m06fbdfe9[m application-x-desktop-gnome gnome-mime-application-x-desktop as user-desktop
+[33m10b609ef[m Update index.theme
+[33m0b0a4099[m KDE Specific Stuff
+[33m41128475[m input-tablet
+[33m7420c104[m removing mostly horrible SVGs
+[33m06fb561b[m .
+[33m391f8e5e[m removing some svgs from places
+[33m30f0074a[m folders-videos all
+[33mb936629f[m subitles all
+[33mdaf80d60[m video-x-generic all
+[33m362134a7[m folder-video
+[33m0733385d[m Update microphone-sensitivity-muted.png
+[33ma82b7cd3[m Update someicons.md
+[33m0d362f6a[m all archivers as winrar
+[33m2bfbcd88[m microphone volume level
+[33m316e1ca2[m org.gnome.FileRoller
+[33m11e23971[m window-close dialog-cancel
+[33m5669eaa8[m list-remove fix
+[33m34841032[m folder-music with shadow
+[33m536d0932[m application-xhtml+xml
+[33m0084b0f8[m more saturated image-viewer
+[33mc95ebd87[m MainToolbarSizes
+[33mf5bb08f3[m view-preview 16-64
+[33meeb49c26[m Update upd.sh
+[33mb03018ca[m solidstate hdd symlinked to regular hdd; update galleries
+[33m2fe33e33[m Merge pull request #12 from Dejweed/main
+[33me813d6c6[m apps/scalable cleanup
+[33mb61953d8[m lxqt-archiver, kdeconnect
+[33m0ccae930[m drive-harddisk-solidstate, drive-harddisk-symbolic
+[33m7147ba67[m update index.theme
+[33m3e6b13d7[m view-dual
+[33m14aed35b[m update HTMLs
+[33ma6f735c3[m view-fullscreen-symbolic
+[33m5ef490b4[m update md
+[33mc3f0099a[m Update todo.md
+[33mcb909dcc[m Update view-list-tree.png
+[33m42d122cc[m view-list-icons view-list-tree
+[33m56fc9f48[m Update someicons.md
+[33mce7a35db[m Update someicons.md
+[33mc4df6bfa[m remove stock_unknown from status context
+[33m2910b598[m help book icons
+[33m19cf7e58[m image-viewer links
+[33m0ac62d46[m 22 & 24 image-viewers
+[33ma3545da7[m image-viewer for eom
+[33mc1c96380[m image-viewer as kodak imaging
+[33m3a8ae1ff[m Update todo.md
+[33m75cef510[m removing of categories/scalable directory
+[33m24eae12a[m xfdesktop-menu as start-here
+[33ma25e8288[m Update icon-theme.cache
+[33m4aaf64c3[m Merge pull request #11 from Dejweed/main
+[33m2e12e83b[m colorpicker to png
+[33m9642c422[m Merge remote-tracking branch 'upstream/main'
+[33m4ad15be4[m media-optical-data-new.png & iso-image-burn
+[33m6ff61d7b[m Update application-vnd.nintendo.snes.rom.png
+[33m0f1423fa[m update snes rom
+[33m8646ee7d[m application-vnd.nintendo.snes.rom
+[33mb7405754[m blueman-disabled gtk-unindent-ltr
+[33m49a278cf[m HTMLs update
+[33m17469755[m symlink corrections
+[33mf72ae5f5[m remove './' from symlink targets
+[33m00f1ca71[m Update .gitignore
+[33m543f5e47[m update HTMLs
+[33m89948c60[m titles of galleries
+[33mba0c744b[m removing actions/20; updateing icons.html in dirs
+[33m14cf371f[m remove 2 action 36x36 icons
+[33m71efbfac[m Update someicons.md
+[33m8bc3fc64[m subtitles as txt+video, 160px video
+[33m6e794efb[m Update todo.md
+[33ma5a2d73b[m default apps icon
+[33maf7ad352[m select-all links
+[33mc54b3a07[m brisk logout icon for Mate
+[33mec11ccb8[m window-new & tab-new
+[33m6f14042a[m archiver actions
+[33ma3816b6e[m NetMeeting icon for instant-messaging category
+[33m938eb156[m removed unsightly svg icons
+[33m740f19fa[m preferences-desktop-default-applications
+[33m35ca1a7e[m user-desktop-symbolic for open/save dialog
+[33m2e036a8f[m grey disabled bluetooth
+[33m28e6df6e[m cdplayer score shadow
+[33m04eb9e64[m xfce4-whiskermenu 24x24 fix
+[33m5b6d88ee[m rip grip goobox
+[33m5dca48c8[m goobox app (cdplayer)
+[33meab6cde1[m remove error
+[33mb89c724d[m document-save-all
+[33m41083075[m Update README.md
+[33mc656bb33[m some xfburn & brasero action icons
+[33m5a630384[m - dialog-information.svg
+[33m1d4ec47f[m Merge branch 'nestoris:main' into main
+[33m00550784[m control panel & regedit relinks; BT serial; question
+[33m9cd0a174[m emblem-documents-symbolic
+[33m0a8f4e3b[m torrent file & emblem-documents
+[33m5b813ee7[m Update icon-theme.cache
+[33med578f8b[m remove errors
+[33md68ecbf3[m Update todo.md
+[33m42cb34e7[m Update README.md
+[33m27002b1c[m torrent
+[33m74891c17[m 3ds & maya models; emblem-video; gconfeditor; some svg removing
+[33m634fc688[m reboot xfce icon
+[33ma27e1e2c[m Update README.md
+[33mdb118146[m symlinking
+[33m48152adb[m view-icons
+[33m7359ac09[m Update icon-theme.cache
+[33m766b1784[m Merge pull request #8 from Dejweed/main
+[33m5a46a1e0[m screensaver icons
+[33mfc9f30ea[m open48 paste48
+[33mc19fad9f[m drive-harddisk-root
+[33mb26bf9b0[m window-symbolic icons
+[33md32c6e3a[m ark, skanlite, spectacle
+[33md3b7bc9c[m fix error
+[33mccfe65c4[m minor fixes
+[33m0796fc14[m partial download
+[33mb6682ec6[m cd-burn, cd-new, cd-video-new, cd-data-new, refresh, videocd, small cleanup
+[33m10b583f8[m bt, flac, aac, blueman, emblems, some panel icons, cd copy, logout&reboot, run app-add
+[33m4c5215a2[m BT default icon
+[33mbf23acb3[m webp tga ogg
+[33m2ba3d96e[m OGG audio & webp image
+[33m49f3c436[m clipman-symbolic for xfce panel
+[33m20f11b23[m some fixes & duplicate removing
+[33m15571e28[m clipman, bluetooth, and battery for xfce4
+[33m80382eee[m removed merge conflicts
+[33m01bad175[m Update icon-theme.cache
+[33m439c282f[m Revert "clipman, bluetooth, and battery for xfce4"
+[33m051fa739[m Revert "ac-adapter 16px symbolic"
+[33m221210b3[m ac-adapter 16px symbolic
+[33m5e4e1576[m clipman, bluetooth, and battery for xfce4
+[33mdcd093f3[m Update icon-theme.cache
+[33m296c89b4[m Russian GitFlic is working.
+[33mc5e2f94d[m java text
+[33m36e17479[m some translations for subscribers
+[33mb08e4a0c[m audio 128; desktop 160;
+[33ma2d8c892[m midi & tracker
+[33m240cb5d1[m user-music
+[33m5b4bb050[m .
+[33m66732552[m some actions symlinking
+[33ma0252210[m Update someicons.md
+[33m88de487c[m midi&mod & remote folder
+[33m53e478e3[m subs  128; midi 64 72
+[33m87aab34e[m server icon
+[33m88ccfe35[m video-mpeg 128 & nm lock
+[33mdb5307a0[m md tables
+[33m8f6948be[m matroska
+[33mb4565ec4[m Adobe Portable Document Format icon (all)
+[33m473d783e[m kde & tde screensaver icon
+[33m144531d1[m application-x-appliance as application-x-executable
+[33m726939a4[m tiff & wmf 128
+[33m0afd4001[m minor corrections
+[33ma96a64af[m added sharp Windows logo icons
+[33ma8c78f73[m vmdk disk image
+[33m6f1fce8f[m Update README.md
+[33m5f3c10fe[m Update README.md
+[33m5f82a929[m Update someicons.md
+[33m3ba3f38d[m icon preview tables update
+[33m07e5cfdc[m abiword document as MS WordPad document
+[33m36b3909c[m Create start-here.png
+[33mde90f5be[m .
+[33m1325daf5[m start button windows logo (72,160)
+[33ma01c7451[m wine vbscript icon as a regular script
+[33mb6f3d387[m text files icon for gnome/mate
+[33m80ad2e05[m Update README.md
+[33m96e6b9b0[m update readme
+[33m7103990e[m nes 72, 96, 128; connection animation; remove some dupes; wifi antenna
+[33mfcafa8f8[m disk image icon for some virtual HDs
+[33m29191703[m Update README.md
+[33m4e800b2f[m Create icon-theme.cache
+[33m608b1f69[m Delete icon-theme.cache
+[33medd439c8[m vlc grey middle
+[33mda6d8166[m Update someicons.md
+[33md2daceab[m multimedia player (upto 128); vlc (upto 128)
+[33m640e83e5[m Update system-file-manager.png
+[33ma9ddb076[m Update icon-theme.cache
+[33m8844dc2e[m terminal (upto 128 px); filemanager (upto 128 px)
+[33mb9c50cef[m Update README.md
+[33m96fccce8[m keyboard links
+[33m13555630[m Update icon-theme.cache
+[33mf6de0f2f[m someicons update
+[33m71484fb6[m net traffic icons links
+[33me27e62d8[m Update README.md
+[33m0f69f84a[m Update README.md
+[33m7065106b[m help to ukr woman update
+[33mbb174e14[m Update README.md
+[33m21029a32[m net workgroup 72&96; transmit/receave icons for animated network manager status icon
+[33mff5c3e8d[m someicons.md
+[33m51fd7072[m music directory icon
+[33m08482ad7[m Beschrijving in het Nederlands
+[33mc9a92207[m Merge branch 'main' of github.com:nestoris/Win98SE
+[33m85bf3816[m kuvaus suomeksi
+[33me5bbb473[m Merge pull request #6 from Alexander88207/main
+[33mbbf9f6d1[m tar-x-zstd
+[33m5f74d83b[m Add FreeBSD package
+[33m694a73c3[m usb drive
+[33mfc78ecea[m Update someicons.md
+[33m38549d83[m add/remove soft 72&96
+[33mc1863a2e[m wii rom as iso
+[33m76f599d9[m Update someicons.md
+[33ma021fc48[m nn
+[33m8365a263[m .
+[33m693bfb67[m .
+[33me67514c1[m wine ini icon
+[33m92d51f73[m keyboard 64, loading
+[33m45704bdd[m some tar links
+[33ma7717736[m tar as an uncompressed folder in file
+[33m224c5026[m css as xml
+[33m5c3942e5[m add flags
+[33m21e14203[m update links
+[33m232f0790[m update Readme
+[33mbdb1cc05[m about cloning of the repository to a spare hosting
+[33m833f82fa[m cursor shadow
+[33m0a87c3e5[m bookmarks icon
+[33m7433ec1e[m Update README.md
+[33m992a7eb3[m Update README.md
+[33mb3562560[m update readme
+[33mb83ec6e0[m Update icon-theme.cache
+[33m6a88fbaf[m cursor icon
+[33m63fe9857[m Update README.md
+[33ma9d83956[m Update README.md
+[33m79f3f328[m big icons update
+[33ma306e758[m Update someicons.md
+[33mcfd40f86[m Update someicons.md
+[33m71d491a0[m Update someicons.md
+[33m578d7399[m Update someicons.md
+[33m5dae8ed6[m Update todo.md
+[33m811d6543[m gettext file
+[33m684f601a[m video links
+[33m48889a05[m Merge branch 'main' of github.com:nestoris/Win98SE
+[33m06cfc3c0[m video file & video folder 128
+[33m8d802b54[m Delete todo_names
+[33m2d2ce563[m Update .gitignore
+[33m5313ae0c[m internet-mail to someicons
+[33mbd43a368[m internet-mail icon
+[33m63e2c0f2[m Update someicons.md
+[33m59d2df76[m templates 128
+[33m89a3d195[m Update .gitignore
+[33mdcbf0980[m Update README.md
+[33m0bb62d74[m desktop 128
+[33mb6a98a99[m Update todo.md
+[33md9d655b4[m cd as disk; cdimage as disk on paper; img as hdd on paper
+[33m9aa1db67[m Update someicons.md
+[33m741d3c5b[m downloads folder
+[33ma2eaf6c0[m user documents folder (all)
+[33m37315890[m trash less persp
+[33m6d89a821[m sharp html 128; winurl all
+[33md7894a73[m sip package for MacOS 9 (stuffit) icon
+[33m26f3c988[m remove some garbage; correcting NES game emulators
+[33md28dc45b[m thunderbird links
+[33md3500230[m gimp links
+[33m0025e94a[m gdm-xnest as Win98 login
+[33m8ca6e0eb[m less brutal large login manager border
+[33m1337bb3d[m rpm package; sun.xml.draw.template
+[33mfddcc688[m sl octet => unknown
+[33m966c6f25[m Debian DEB package
+[33m53311dca[m Update icon-theme.cache
+[33m651dec87[m generic image as jpeg; photoshop/GIMP/KRITA
+[33me905ffd9[m donation information
+[33med4b45fa[m donation information
+[33me2ced31d[m donation information & package icons changes
+[33m74e6ce95[m GIMP icon (up to 128)
+[33m46fa61ab[m GIMP xcf and Photoshop PSD icons (all)
+[33m46c7e048[m Update todo.md
+[33ma77daaa7[m Update icon-theme.cache
+[33meef27ec9[m playlist icon (up to 96 px)
+[33mdc38cd31[m Update icon-theme.cache
+[33mf2513ce4[m thunderbird MS OE icon, (16-96), wav&mp3 correct
+[33m05b250c5[m mpeg audio icons
+[33m24026b5c[m Update README.md
+[33m1c7f20e8[m moving license up
+[33m5769520d[m default fideo file (removing scalable Win95 icon)
+[33mf269c5b0[m globe icon corrections
+[33m9a9d3ca0[m todo-status
+[33m106acd30[m font-woff
+[33m1c442000[m font icons links
+[33ma1c1c142[m Update someicons.md
+[33ma81586e4[m removing GIF files and deadlinks
+[33m3d7c4fc0[m netmeeting icon for some chat apps
+[33mcff2c74b[m Update someicons.md
+[33m3ddf0d7d[m Update someicons.md
+[33mdf5f1d47[m backup file (all)
+[33m9d1f5443[m .
+[33m361d02ce[m Update someicons.md
+[33mba20182a[m trash icons 72 & 96
+[33m46348218[m Update README.md
+[33m35d6ac58[m mp3
+[33mc71c1e1e[m Update icon-theme.cache
+[33m63d9a52f[m sound files 72 & 96
+[33m99ade799[m uget tray icons
+[33m6a800de1[m 16-color mailbox original icon reference
+[33mb944381d[m globe correction
+[33m314422cd[m Update README.md
+[33mc168b5f1[m Update README.md
+[33maebe73b0[m Update README.md
+[33m171d468e[m Update README.md
+[33mdfddb9e4[m Update README.md
+[33m9fba3c36[m Update README.md
+[33me1479da1[m Update README.md
+[33md1453382[m Update README.md
+[33m9581c7b1[m pallettes
+[33mc14e34ca[m Update README.md
+[33m199c2af8[m Update README.md
+[33mbae2ecc8[m .
+[33ma383fcdf[m Update README.md
+[33m7785a5e2[m .
+[33mcf08a1e2[m Update README.md
+[33m7687ace5[m Update README.md
+[33m27fc2dd0[m reference
+[33m73a51680[m Update preferences-desktop-locale.png
+[33m430fc653[m globe (64 72 96 px)
+[33m879449bc[m Update todo.md
+[33m9ef57ef1[m videofolder links
+[33m83046a63[m folder-videos (96 px max), subtitlesX96
+[33me66ded2a[m todo upd
+[33mf9044723[m link and directory corrections, removing unused
+[33m6431710a[m xml 256px
+[33m6ba755b0[m folder-templates 72x72
+[33m14eba4f7[m avi & matroska & mpeg video 72x72 & 96x96 px
+[33mbb4dc4c8[m Update icon-theme.cache
+[33m7a77f327[m kfind lxfind
+[33m70b8aa04[m Update someicons.md
+[33m8eff80da[m Update someicons.md
+[33m52ab519b[m video 96, matroska 72, 96
+[33md99b4614[m Update icon-theme.cache
+[33m9b973ee4[m links for generic video
+[33m64f78107[m Update someicons.md
+[33m54728746[m subtitles 64-72 px
+[33ma090c484[m upd todo/done
+[33md0b13021[m Update someicons.md
+[33ma0cc0b09[m generic video 72 px
+[33m4632a503[m Update install_icons.sh
+[33m23ea8fed[m arrows for kde
+[33ma02f6bb7[m some link fixes
+[33m7237a915[m link_overlay (all)
+[33m0f92583c[m mdtable
+[33m796d7ac6[m icon tables
+[33med087697[m Update computer.png
+[33m7bd59d34[m text-rtl (all)
+[33me433075e[m certificate icon 16-48 px
+[33m239993d8[m Update computer.png
+[33mf949a77f[m comp icon 128
+[33mb0651d81[m xfce theme manager & certificate links & menu-editor 72&96 px
+[33m5182d8fe[m menu editor
+[33mf42cecaf[m sorting, removing dupes
+[33mda0c9292[m xml icon (160x160, 192x192)
+[33mbe6ac58b[m default avatar 16-64 px
+[33mc56f72e8[m Update .gitignore
+[33m0af12fef[m Update someicons.md
+[33m62e82444[m .
+[33m85dd5f08[m 3d wifi status
+[33m3a12e691[m wifi icons, avatar-default
+[33mfefc98d9[m some fixes of categories
+[33m79d6ae9b[m some order in files and symlinks
+[33m7b94023b[m softer E (64x64) letter on 96px icons
+[33m784f8705[m krita as tiff
+[33m5138c094[m Update icon-theme.cache
+[33m5e427494[m .
+[33m50e9015d[m Update icon-theme.cache
+[33mc1c293b1[m inode-blockdevice as HDD
+[33m0092b147[m links for gpx
+[33m9b5e79c7[m php icon 72 and 96 px
+[33mc7d70d07[m gpm-primary-missing
+[33m0715117d[m .
+[33m319ae94b[m Update someicons.md
+[33me48b387d[m lisp 72 and 96
+[33mbc951937[m Update icon-theme.cache
+[33m00ac3726[m user-share icon (all)
+[33mff0d5c2c[m Update icon-theme.cache
+[33m2b512d17[m green battery charging and battery-missing
+[33mad6f6f14[m Update .gitignore
+[33m6249db94[m Update someicons.md
+[33m973cf069[m gps icons (16-96 px)
+[33mf56b1b47[m Update icon-theme.cache
+[33m3cf02b74[m image 96px icons
+[33m4b09519c[m Update someicons.md
+[33mbac77e94[m tiff image 72px
+[33m7173b674[m Update someicons.md
+[33macab105d[m some images 72px
+[33mdf7c802e[m Update someicons.md
+[33m189aee5c[m lua 72 and 96 px icons
+[33ma39c8823[m Update README.md
+[33madffee57[m update MDs
+[33m465c9621[m links for script icons
+[33ma1a0b7df[m awk
+[33m38610f2d[m shellscript icon is no more a BAT icon but WScript icon
+[33m891dbe0c[m Update someicons.md
+[33mbb5725a9[m Update text-html.png
+[33m2e25aeca[m awk and emacs-lisp icons 72, 96 px
+[33m57b5a73b[m change symlink
+[33m3d1b6de1[m Update README.md
+[33me1c791fd[m .
+[33med0a972e[m various deletions and some symlinkings
+[33m3c676c20[m Update index.theme
+[33md404108a[m Update index.theme
+[33meb719bc8[m Update index.theme
+[33mf127461c[m Update index.theme
+[33m9a4d8cb5[m Update index.theme
+[33mcc40e59e[m my docs 72 and 96 px
+[33meee9e42e[m trash icons links
+[33mfd2fb20b[m Update someicons.md
+[33m9a45da85[m Update drive-optical.png
+[33mf23745aa[m lower system hdd
+[33m1623e138[m Update icon-theme.cache
+[33md8672128[m lower place for HDD icon
+[33m297dd492[m usbdrive 64 72 96
+[33m1ea37c5b[m cdrom large icons corrections
+[33m6ad84610[m Update someicons.md
+[33mc9224b6d[m Update icon-theme.cache
+[33me35cfc48[m .
+[33m9427008e[m appfinder icon & explorer (72)
+[33mf3b525e8[m links....
+[33mfdf90f5d[m some icons table update
+[33m261df220[m office text (word) document links and removing scalable of word and excel
+[33m27d36184[m trash 2k (16x16, 22x22, 24x24, 32x32, 48x48 px)
+[33mf072d14c[m excel spreadsheet icon (all sizes)
+[33m1fb6f3c3[m Update README.md
+[33mb10c9888[m Update README.md
+[33m21a34d17[m network workgroup 16-64 px (win2k alternative)
+[33m3145201a[m nn hardlink to 98 style
+[33m0ccd39bb[m Update computer_win2k.png
+[33m351e476c[m scripts for transforming win98 to win2k style and a Computer icon (16x16-64x64 px)
+[33m68446dd9[m arch package icon
+[33m0ea32c01[m word doc
+[33m6bc98ca4[m Update README.md
+[33maaf2d993[m Update someicons.md
+[33m982e234a[m Internet Explorer 5.5 forever!!! (all sizes)
+[33md9e4d4ac[m html file (all sizes)
+[33m06c8ece1[m Update someicons.md
+[33mf0c2a5d2[m Update icon-theme.cache
+[33m2e10d037[m cd/dvd-rom (all sizes)
+[33m1892f19b[m links to login manager icons
+[33m5617399c[m preferences-system-login
+[33meaf9a387[m Update someicons.md
+[33mb3f00bac[m removing some scalable icons
+[33m2e8a3cd6[m octet-stream (unknown) -- all sizes
+[33mf769c27b[m Update icon-theme.cache
+[33mfd63bdb2[m MSWord DOCument (all sizes)
+[33mdba0a16a[m winword icons
+[33m8e320932[m Update application-x-cd-image.png
+[33m7f1be9a1[m Update someicons.md
+[33m3782ece5[m word document icon (72, 96, 128 px)
+[33me6719b3b[m xml 64, 72, 96, 128 px
+[33m3af993be[m sys hdd 72x72
+[33me406a04f[m Update icon-theme.cache
+[33m56b96b92[m hdd and system-hdd (all sizes)
+[33m165e4216[m Update someicons.md
+[33m8232a824[m system drive 96 &128
+[33mb1972f27[m hdd 128x128
+[33m4654bb88[m beautify cd-image icons (64-256 px)
+[33m1cfe1e0a[m symlinks to large computer icons
+[33m3bccdf59[m cd image icons (all sizes)
+[33md49b0198[m new symlink
+[33m2522caec[m folder-open (all sizes)
+[33m88ee1402[m ie 256x256 icon
+[33mf256c959[m preferences-desktop-user
+[33me91b73ee[m users 256-color icons (16-64 px)
+[33md601b6f3[m kget & gnomemeeting
+[33m56d0c0bd[m hdd 72, 96 links
+[33m7a21a3ff[m hdd 64, 72 & 96
+[33m4c5a7812[m computer 96x96 icon
+[33m4e3f52a3[m Update icon-theme.cache
+[33m813126bb[m Update README.md
+[33m9060856c[m cd image 96x96 icon
+[33m6801ea48[m longer roof in go-home; 72 px bat icon
+[33m56ed5a9d[m Update document-save-as.png
+[33m68a57bd7[m Update someicons.md
+[33m6114f265[m Update someicons.md
+[33m1d540c2d[m Update text-html.png
+[33m4f8fdf89[m html-file 72 and 96 px
+[33m68614607[m package icon for 72, 96, 128 px
+[33mdc79b33b[m Update icon-theme.cache
+[33m56b8deac[m archive icon 72 and 96
+[33m578b653c[m Update icon-theme.cache
+[33mf5f56a72[m user-images (all sizes) icon
+[33m8247c812[m IE folder 1px right of 'e'
+[33m1b9453fa[m web browsers as IE (64x64)
+[33mada159e4[m folder-downloads links
+[33m28e167d0[m folder-downloads 72 & 96 px
+[33m969a9257[m templates folder 96x96
+[33m6448c131[m download-manager & uget icon as FlashGet for Windows
+[33m302b05ad[m web browser icon update (64x64)
+[33mf34716cf[m Update README.md
+[33m67a5ad65[m Update folder.md
+[33mc4bb8e73[m binary file icon (all sizes)
+[33mbad00f3b[m Update text-x-generic.png
+[33ma3e758c1[m Update folder.md
+[33mec947de7[m text file icon 72x72, 96x96, 160x160, 192x192, 256x256
+[33ma2e80f5e[m Update folder.md
+[33ma5759751[m Update folder.md
+[33m3eeba02a[m Update icon-theme.cache
+[33m63925871[m log and empty file (all to 256x256 size)
+[33m1a1636a5[m 128 & 72 txt icons
+[33m8e254acc[m 72x72 inkscape icon
+[33m68fa50b9[m Update README.md
+[33ma9f72e69[m link to folder.md
+[33m718b6e8b[m desktop, empty, cdimage of 72x72 size
+[33mf81b274e[m new text and empty file 96x96
+[33me94cb3c0[m Create folder.md
+[33m55566197[m Update icon-theme.cache
+[33m8579668f[m some pixel correction of folder 256x256 icon
+[33mc8288191[m large folder icon links
+[33m05ac1bab[m large folder icons
+[33m92eb31ba[m folder big icon links
+[33m72bd93f1[m 128x128 folder icon
+[33mbb1d31d8[m clipit offline icon
+[33m867ac6ed[m smil icons as subtitles
+[33ma64c4a5c[m symlink emblem update
+[33m94e48bff[m chm icon link & start button for KDE/TDE
+[33m4907248b[m linking for empty files icon
+[33m5aaa269d[m 3.5" mounted floppy & inode-socket & gzip archive icons
+[33m6d89683a[m randr icon
+[33mb1236200[m Update someicons.md
+[33ma1225c50[m Update edit-delete.png
+[33m8b8d36d8[m Update README.md
+[33m1d64fff1[m moving batt icons from 'panel' context to 'satus'
+[33m2d079229[m desktop icon
+[33mb071f92a[m smooth desktop 96x96 icon
+[33mc7fc29b8[m archive manager as WINRAR, MS word DOCX file icon -> x-office-document
+[33mf4a42aae[m Update .gitignore
+[33m09b35c1f[m symlinks corrections
+[33mcdcd75a1[m symlink correction
+[33mf66ef0fe[m dconf icon
+[33m04e65188[m some icons markdown doc update
+[33mc415467b[m removing duplicated batt icons
+[33mc95b0d35[m battery icons
+[33m4b1fa740[m batt icons...
+[33mae86e8fd[m batt icons
+[33mdbcecc7c[m battery icons
+[33m416f9153[m measure tool
+[33me14c5831[m calc
+[33m7c0c65d8[m go next & windows url file
+[33m759ac05a[m document-opwn
+[33meb597a95[m update arrows
+[33m3c9199ac[m deleting Chicago95 svg icons from applications context, adding RedShift svg icons
+[33md3513e2c[m someicons update
+[33m78693794[m remove irrelevant user-bookmarks icon, update someicons.md
+[33m87884a5e[m go top & bottom
+[33mc4df6aca[m prev-next
+[33me03beda4[m Create icon-theme.cache
+[33m15e113f0[m refresh icon
+[33m358cce8d[m small edit of paste
+[33m7f048845[m save & go home!)))
+[33md3ada0e2[m download 64x64
+[33m9a6fa257[m up-n-down
+[33mb0507f6d[m various icons from browserui.dll
+[33m2ddf1fb0[m .
+[33m30d93b0e[m trash icon correction
+[33m09180a7b[m system-installer synaptic
+[33mbd6a7983[m software-properties
+[33m2c32700d[m appwiz 64x64 icon
+[33m33e26f8b[m Update README.md
+[33mc4a39991[m Update icon-theme.cache
+[33mfcbdc35d[m update winamp icon (+64), update desktop icon (+96)
+[33m11f674ea[m Update icon-theme.cache
+[33m9602028c[m some kde icons
+[33mae315977[m knetattach
+[33m30dbc71c[m preferences-sound & knotify
+[33m5f5acacb[m Update install_icons.sh
+[33m9e94e3f9[m Merge branch 'main' of github.com:nestoris/Win98SE into main
+[33mf362ea90[m some icons + small updates
+[33m0510c4d4[m Merge branch 'main' of github.com:nestoris/Win98SE
+[33m227ab866[m some KDE3/TDE icons
+[33m02158ece[m Update .gitignore
+[33macc7e418[m TDE documents icon link to folder-documents
+[33mdae1b1ec[m setup icon for q4os
+[33m89613640[m fileprint
+[33m62e2af9b[m printer
+[33m0c403f98[m 135 icons preview
+[33ma386ad0d[m Create 135_icons_64x64.png
+[33m5a0179b3[m Delete 135_icons_64x64.png
+[33m86589e87[m Update 135_icons_64x64.png
+[33mbd1063d3[m Create 135_icons_64x64.png
+[33m9dd9e697[m Update someicons.md
+[33m28d71441[m someicons update
+[33mfd7b304d[m Update empathy.png
+[33mf751f65e[m inkscape (illustrator) icon +96x96 size
+[33me8e79867[m some symlink corrections
+[33m7f7a7251[m gimp (photoshop 5.0-6.0) 64x64 icon
+[33m92864b2b[m add note icon
+[33mdb447b6e[m mail-mark-important
+[33m2e2b56dd[m mail send-receive
+[33mc5cca2e1[m list of some edited/created icons. Change preview icon.
+[33m8fa261be[m some mail icons
+[33m0eaf954d[m remote desk
+[33ma549da9c[m mail mark unread
+[33mb22f5f60[m mail icons
+[33m8fea24e8[m Update .gitignore
+[33mfb7031c8[m mail-mark-junk (16, 24, 32) icon
+[33m071e118e[m turn some similar action 16x16 icons to symlinks
+[33me4aeb108[m removing scalable window-close icon
+[33m0c1e20e5[m Update icon-theme.cache
+[33m6a54ab7a[m adding MS hh icon
+[33m4b932b1e[m sharper gpx icon
+[33mb42d9684[m update blockdevice and computer
+[33m2bd17d66[m mimes/72, inode-symlink, inode-x-generic, windows regedit file
+[33ma9ab4e32[m more volume to sega nes cartridge
+[33m0813a514[m sega rom symbolic link
+[33mca31b079[m small corrections
+[33m512f480e[m sega rom icon
+[33m6d7b22c9[m midi links for symbolic icons
+[33m2249d710[m adding some app icons & links for rar filetype
+[33m6d799285[m Update user-desktop.png
+[33m16659d5e[m desktop.ico
+[33ma1e71a47[m Update user-desktop.png
+[33m3d5019e7[m more 3D in computer icon
+[33m693e62aa[m some minor editings
+[33medcc6316[m update of display (chardevice) icon, adding of 64 icon
+[33m6ba13a16[m Update README.md
+[33ma9650ea4[m Update install_icons.sh
+[33m90ff1c22[m renovation of directory structure
+[33m10c9568c[m separating wallapaers from icons
+[33m588eead2[m nes rom icon
+[33mb96e177e[m some inode icon creating and corrections
+[33m311bab8b[m zerosize icon
+[33md4414759[m Update README.md
+[33m7c9c3e2c[m system monitor & gpx
+[33m0a2e8a79[m calendar, system hd, markdown
+[33m747fbef9[m download folder icon
+[33m88584f1f[m less rough border for NES console
+[33ma496d790[m excel table 64 icon
+[33mce53df9c[m .
+[33me44bccdd[m some icons added, some modifyed
+[33m27ec258f[m some minor symlink corrections, readme for wallpapers
+[33m26370bde[m addressbook
+[33m9410fe47[m update of text files
+[33me4c43abf[m remote desktop
+[33m6d50d4a8[m recent's folder, bookmarks, editing and common folder shifting
+[33mdcd14376[m TRASHCAN 64x64 icons and some minor editings
+[33m16aed3f4[m windows dll & empathy (netmeeting style) icons
+[33m5259ed35[m desktop file linked to desktop place
+[33md9b43ce5[m some script icons and DLL (SO) lib icon
+[33m1518a193[m standard office document (ltr & rtl)
+[33m04655325[m Update README.md
+[33mb786431f[m more saturated audio icon, lisp icon
+[33meb2a3ad5[m editing readme
+[33mb90482c4[m tiff image icon
+[33m9bc14e8e[m part-download & matroska icons
+[33mfe8bba6c[m video icons
+[33mee6b2056[m creating icons for various script languages
+[33m91b66147[m some scripts full-sized icons
+[33m86e3a953[m some symlink corrections to categories
+[33m366b36bc[m Update application-x-shellscript.png
+[33m59a2451d[m text-x-log
+[33mf4337681[m adding 72 and 96 folder icons
+[33m8649f30e[m some minor corrections
+[33m6bd19d6f[m Some icon addons and corrections. Symlink corrections.
+[33md0a14bdf[m some minor icon and link fixes
+[33m28502153[m Update README.md
+[33mefd009aa[m Merge branch 'main' of https://github.com/nestoris/Win98SE into main
+[33mf87f8804[m minor changes
+[33maed9ff83[m Update README.md
+[33m3627e240[m Update README.md
+[33m1ec66fab[m Update catfish.png
+[33m101d60d8[m Update README.md
+[33md5c44e07[m Update image-png.png
+[33m119a2591[m some minor additions
+[33m584931cd[m Update network-workgroup.png
+[33m6ee5cd84[m Very important fixes and editing README
+[33m84e729a8[m Update index.theme
+[33me3c259c7[m Create folder-publicshare.png
+[33m713861bb[m Create network-workgroup.png
+[33m105fea67[m Update computer.png
+[33m54e21a6b[m some mime icons update
+[33mea132c8f[m updating some icons
+[33mb0a5dbe6[m some icons update
+[33mdde2da1a[m icons for some package files
+[33m35a8385b[m adding some 256 color icons and turning duplicate images to symlinks
+[33m71d45896[m update of readme, Inherits, and cdrom icon
+[33m77354bc8[m Update index.theme
+[33mff29cf32[m Update README.md
+[33m0823a370[m Create install_icons.sh
+[33m4b07e558[m Update index.theme
+[33ma950d30f[m Update icon-theme.cache
+[33me547a598[m Update network-server.png
+[33m4d7e4648[m removed icc profiles from png files
+[33m0a7693b2[m browser icon
+[33m60dda736[m correction of symlinks
+[33mc9c9fe10[m some categories icons
+[33me8375731[m change some links to originals
+[33mcadf1be5[m copied some icons from Chicago95 theme
+[33m21ff559a[m updating icons and icon links
+[33m66536e42[m setup wallpapers
+[33m4bef85a1[m Update README.md
+[33m60f15be0[m Moving scripts to it's own project
+[33m2d45ab44[m edited and moved readmes
+[33md755f569[m Update README.md
+[33m6665913c[m add readme to scripts
+[33maad06839[m Create .gitignore
+[33ma492d49f[m adding linking script and readme
+[33m9bc207af[m Update iconthemes2html.awk
+[33me6ae5618[m creation of script
+[33m4aeb2e36[m uploading icon theme
+[33ma812a693[m -
+[33ma520cacf[m Merge branch 'main' of https://github.com/nestoris/Win98SE into main
+[33m884653bd[m uploading icons
+[33mc43a3efc[m remove all
+[33m03be7632[m Delete Icons/SE98 directory
+[33med0e6419[m fixing bug of uploading
+[33me325bdd2[m Icons upload
+[33mb5007493[m Update README.md
+[33mff9e16fb[m Initial commit
